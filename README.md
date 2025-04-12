@@ -60,6 +60,6 @@ By leveraging Power BI's powerful data visualization capabilities, this project 
 
 ## 📣 Connect with Me
 📧 Email: subhamsunny153@gmail.com  
-📍 Bangalore, India  
+📍 Delhi, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/subhamchoudhary153)  
 
